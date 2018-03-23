@@ -1,0 +1,11 @@
+.publish {
+  height: 100%;
+}
+.publish-header {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.publish-input {
+  margin-bottom: 20px;
+}

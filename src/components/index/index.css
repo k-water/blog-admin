@@ -1,0 +1,8 @@
+.blog-list .ant-list-item-extra {
+  display: flex;
+  flex-direction: column;
+}
+
+.ant-list-item-extra button {
+  margin-bottom: 20px;
+}
